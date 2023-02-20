@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+   
+}
+
+.bi{
+    background-color: transparent;
+    color: black;
+}
+
+.card{
+    width: 150px;
+    height: 450px;
+    box-shadow: 5px 5px 5px black;
+    color: #fff; 
+}
+
+.card-body{
+    width: 280px;
+    height: 200px;
+    
+}
+
+img{
+    border-radius: 50%;
+    padding: 40px;
+    box-shadow: 5px 5px 0;
+}
+
+ 
